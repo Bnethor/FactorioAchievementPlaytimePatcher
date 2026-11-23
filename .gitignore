@@ -4,3 +4,6 @@
 /bin
 /Properties/launchSettings.json
 /Folder.DotSettings.user
+.venv/
+factorio.exe.stock
+factorio.exe.patched
